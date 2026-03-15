@@ -52,19 +52,7 @@ I love creating practical tools for WordPress, helping website owners, and contr
 - Website: [https://www.cluj360.ro](https://www.cluj360.ro)  
 
 
----
 
-## ⚡ SEO & Keywords
-
-This repo is optimized for:
-
-- **WordPress tools**  
-- **WordPress plugins**  
-- **Open source WordPress projects**  
-- **Cristi Tamas developer**  
-- **Cluj360.ro**  
-
-These keywords are included in headings, description, and content to improve search visibility.
 
 ---
 

@@ -50,7 +50,7 @@ I love creating practical tools for WordPress, helping website owners, and contr
 
 - GitHub: [cristitamas2018](https://github.com/cristitamas2018)  
 - Website: [https://www.cluj360.ro](https://www.cluj360.ro)  
-- Email: your-email@example.com (optional)
+
 
 ---
 
